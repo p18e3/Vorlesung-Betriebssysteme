@@ -2,6 +2,8 @@
 
 ## Übungen
 
+Alle Übungen basieren auf .NET Core und können einfach mit Hilfe des kostenlosen Visual Studio Code geöffnet, modifiziert und ausgeführt werden.
+
 ### Vorbereitung der Übungen
    (1) Laden Sie sich [Visual Studio Code](https://code.visualstudio.com/) herunter und installieren Sie es.  
       Nach der Installation drücken Sie die Tastenkombination STRG + UMSCHALTTASTE + X, geben im Suchfeld C# ein und installieren die C#-Extension.
