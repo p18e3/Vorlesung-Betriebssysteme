@@ -12,3 +12,5 @@ Alle Übungen basieren auf .NET Core und können einfach mit Hilfe des kostenlos
 
 ### Übungen zu Threads
 (1) Clonen Sie sich die Solution "Threads".
+
+(2) Öffnen Sie das Solution-Verzeichnis in Visual Studio Code.
