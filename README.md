@@ -14,3 +14,5 @@ Alle Übungen basieren auf .NET Core und können einfach mit Hilfe des kostenlos
 (1) Clonen Sie sich die Solution "Threads".
 
 (2) Öffnen Sie das Solution-Verzeichnis in Visual Studio Code.
+
+(3) Führen Sie den Code aus, indem Sie `dotnet run` im Terminal von Visual Studio Code eingeben und mit Enter bestätigen.
